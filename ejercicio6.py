@@ -1,3 +1,4 @@
+#EJERCICIO 6
 a=int(input("INGRESE EL TAMAÑO "))
 import turtle
 t= turtle.Pen()
