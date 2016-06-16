@@ -1,3 +1,4 @@
+#EJERCICIO 7
 lados=int(input("INGRESE EL NUMERO DE LADOS: "))
 tam=int(input("INGRESE EL TAMAÑO: "))
 
@@ -8,6 +9,6 @@ def poligono ():
 	for x in range(0,lados):
 		t.forward(tam)
 		t.left(360/lados)
-
 poligono()
+
 turtle.getscreen()._root.mainloop()
