@@ -12,3 +12,5 @@ def poligono ():
 poligono()
 
 turtle.getscreen()._root.mainloop()
+
+
